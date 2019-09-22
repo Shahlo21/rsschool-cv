@@ -1,0 +1,70 @@
+html{
+
+    background-color: #312785;
+    background-image: repeating-linear-gradient(150deg, rgba(255, 255, 255, 0.06),
+            rgba(255, 255, 255, 0.06) 1px, transparent 0, transparent 41px),
+        repeating-linear-gradient(-150deg, rgba(255, 255, 255, 0.06),
+            rgba(255, 255, 255, 0.06) 1px, transparent 0, transparent 41px);
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+code{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 15px;
+    border-radius: 5px;
+}
+pre{
+    margin: 0;
+}
+body{
+    text-align: center;
+    width: 800px;
+    max-width: 1024px;
+    margin: 0 auto;
+    font: 20px/1.6  'Asap', "Helvetica", "Arial", sans-serif;
+    color: #fff;
+}
+header {
+
+}
+main{
+    padding: 3rem 3rem 6rem;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+section{
+    display: flex;
+}
+#personal-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#info-block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+img{
+    border-radius: 50%;
+    margin: 5px;
+}
+
+#code-examples{
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+}
+.flex{
+    flex-direction: column;
+    align-items: flex-start;
+}
+span{
+    text-align: left;
+}
