@@ -1,7 +1,7 @@
 # rsschool-cv
 
 ### 1.Abbos Amritdinov
-![My photo](https://ibb.co/v1rdZXR)
+![My photo](https://i.ibb.co/jhxwgJs/profile.jpg)
   
 
 ### 2.Contact Info:
