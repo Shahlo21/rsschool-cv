@@ -1,6 +1,8 @@
 # rsschool-cv
 
 ### 1.Abbos Amritdinov
+![My photo](https://ibb.co/v1rdZXR)
+  
 
 ### 2.Contact Info:
   * E-mail: abbos6264258@gmail.com
@@ -11,7 +13,15 @@
   Passionate about programming, hope to work on interactive apps and web-program implementation. Ambitious and a quick learner.
 
 ### 4.Skills:
-  HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, WordPress, VSCode, GIT.
+  * HTML
+  * CSS
+  * SASS
+  * Bootstrap
+  * JavaScript
+  * jQuery
+  * WordPress
+  * VSCode
+  * GIT
 
 ### 5.Code examples: 
 ```CSS
